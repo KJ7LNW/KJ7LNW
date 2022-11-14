@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KJ7LNW
-- 👀 I’m interested in ham activities
+- 👋 Hi, I’m Eric, @KJ7LNW
+- 👀 I enjoy doing Amateur Radio stuff with my son Zeke, @KJ7NLL (https://www.youtube.com/@KJ7NLL)
 - 🌱 I’m currently learning EM simulation
 - 💞️ I’m looking to collaborate on xnec2c
 - 📫 How to reach me: www.linuxglobal.com
